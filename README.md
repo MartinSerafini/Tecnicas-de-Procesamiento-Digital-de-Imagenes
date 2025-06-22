@@ -1,7 +1,7 @@
 ---
 # Técnicas de Procesamiento Digital de Imágenes
 
-Este repositorio contiene los trabajos prácticos y proyectos desarrollados durante la cursada de **Técnicas de Procesamiento Digital de Imágenes** en el IFTS N°24, durante el 1er Cuatrimestre de 2025.
+Este repositorio contiene proyectos desarrollados sobre Técnicas de Procesamiento Digital de Imágenes.
 
 ---
 
